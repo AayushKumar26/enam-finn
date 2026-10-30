@@ -1,0 +1,5 @@
+build/
+*.keystore
+FINN.apk
+node_modules/
+*.png
