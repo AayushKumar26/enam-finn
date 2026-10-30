@@ -1,6 +1,10 @@
 # FINN — Financial Investment Agent
 
+**[⬇ Download the Android app (FINN.apk)](https://github.com/AayushKumar26/enam-finn/releases/download/v3.4/FINN.apk)** · Android 7+ · install, open, done
+
 An Android app that does an investor's first hour of the day in 30 seconds. It reads every exchange filing and price move across a portfolio, shows only what matters, and can research any NSE/BSE company on demand.
+
+> **Install:** download the APK on your phone → tap it → allow "Install unknown apps" if asked → open FINN. Tap **Portfolio → Settings → Run diagnostics** to check every live data source.
 
 ## What makes it different
 
